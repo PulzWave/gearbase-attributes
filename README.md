@@ -27,6 +27,9 @@ NOTE: Due to the current codebase, AttributeOptions need to be unique. Hence you
 - **TypeAttribute**  
   Represents the mapping between a gear type and its applicable attributes. It defines which attributes are available for a given type, thereby controlling which gear items can have which attributes.
 
+## API
+To check the live attribute model, you can check this URL: https://gearbase.org/api/json-attributes?gearTypes[]=synthesizer (change the gearTypes for specific attribute list, or combine multiple)
+
 ## Contributing
 
 We welcome contributions to improve and extend the attribute data model. If you have suggestions, enhancements, or bug fixes in mind, please start by creating an issue so we can discuss the proposed changes. While forking the repository and submitting a pull request is possible, it is not required—your feedback through issues is equally valuable.
