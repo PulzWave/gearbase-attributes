@@ -1,0 +1,70 @@
+category;orderIndex;name;dataType;description;descriptionForEdit;prefix;suffix;enabledForAiGeneration
+Connections;10;Audio In;boolean;This attribute indicates if the gear accepts external audio signals.;;;;true
+Connections;15;Sustain pedal;boolean;Possibility to connect a sustain pedal;;;;true
+Connections;16;Expression pedal;boolean;Possibility to connect an expression pedal;;;;true
+Connections;20;Audio Out;boolean;This attribute indicates if the gear can send audio signals to external gear.;;;;true
+Connections;30;Headphone Output;boolean;This attribute indicates if you can monitor sound directly via headphones.;Dedicated headphone output present? ;;;true
+Connections;40;Microphone Input;boolean;This attribute shows whether a mic can be connected directly.;Is there a microphone input? ;;;true
+Connections;50;Line Input;boolean;This attribute indicates if line-level audio sources can be connected.;Is there a line-level input? ;;;true
+Connections;60;Digital Audio Output;string;This attribute indicates if the gear outputs audio in digital format.;Is there a digital audio output? ;;;true
+Connections;70;CV/Gate;boolean;This attribute shows if it can interface with modular synthesizers.;Does the gear support CV/Gate connections? ;;;true
+Dimensions;10;Width;integer;Width of the gear, in mm;Please fill it in metric millimeters. The site will convert it to millimeters or inches, depending on the user setting;;mm;true
+Dimensions;20;Height;integer;Height of the gear, in mm;Please fill it in metric millimeters. The site will convert it to millimeters or inches, depending on the user setting;;mm;true
+Dimensions;30;Depth;integer;Depth of the gear, in mm;Please fill it in metric millimeters. The site will convert it to millimeters or inches, depending on the user setting;;mm;true
+Dimensions;40;Weight;integer;Weight of the gear;Please fill it in metric grams. The site will convert it to kg or lbs, depending on the user setting;;gram;false
+Features;10;Native DAW Integration;multivalue;Which DAWs are supported out of the box;"";;;true
+Features;10;Preset slots;integer;This attribute represents how many preset sounds can be stored for easy recall.;The amount of presets that a user can save. This includes the factory presets. ;;;true
+Features;20;Effects;multivalue;This attribute indicates if the gear includes onboard effects processing.;Whether a gear has built-in effects;;;true
+Features;30;Performance Controls;multivalue;This attribute details performance-oriented controls like pitch bend or modulation wheels.;Controls that directly affect the sound. ;;;true
+General;10;Release date;date;The (approximate) date when the product was released.;;;;true
+Hardware;10;Power Supply Type;string;This attribute specifies how the gear is powered (e.g., AC adapter).;;;;true
+Hardware;20;USB Powered;boolean;This attribute indicates if the gear can run off USB power.;;;;true
+Hardware;30;Battery powered;boolean;This attribute shows if the gear can operate without external power, using a built in battery.;;;;true
+Hardware;40;Display Type;string;This attribute indicates the kind of screen (LCD, OLED, etc.).;;;;false
+Hardware;50;Touch Screen;boolean;This attribute clarifies if the display is touch-sensitive.;;;;false
+Hardware;60;Storage Type;string;This attribute specifies the storage medium for saving data.;;;;false
+Hardware;70;Internal Memory;integer;Amount of internal memory for samples or patches, in megabytes.;;;MB;false
+Hardware;80;Expandable Memory;boolean;This attribute shows if additional storage can be added.;;;;false
+Hardware;90;Built-in speaker;boolean;Does the gear have a built in speaker;;;;true
+Inputs;30;Pad Count;integer;Number of velocity‐sensitive pads available on the controller.;Enter the number of velocity‐sensitive pads on the device.; ; ;true
+Inputs;40;Fader Count;integer;Number of assignable faders present on the controller.;Enter the number of assignable faders on the device.; ; ;true
+Inputs;50;Knob Count;integer;Number of assignable knobs available on the controller.;Enter the number of assignable knobs on the device.; ; ;true
+Inputs;60;Encoder Count;integer;Number of assignable (endless) rotary encoders present on the controller.;Enter the number of assignable (endless) rotary encoders on the device.; ; ;true
+Inputs;70;Button Count;integer;Number of assignable buttons present on the controller.;Enter the number of assignable buttons on the device.; ; ;true
+Inputs;80;Joystick Type;string;Specifies the type of joystick control available.;Describe the joystick type on the device.; ; ;true
+Inputs;90;Transport Controls;boolean;Indicates whether the controller includes dedicated transport controls (such as play, stop, record).;Does the device have transport controls?; ; ;true
+Keybed;0;Keybed;boolean;This attribute indicates if the product includes a playable keyboard or input surface.;Whether there is a way to directly enter notes into the gear. ;;;true
+Keybed;10;Key size;string;For piano keybed: What is the size of the keys?;Only fill in value when it has a piano keybed: What is the size of the keys?;;;true
+Keybed;20;Type of keybed;string;This attribute specifies the keybed mechanism or input method.;;;;true
+Keybed;30;Number of Keys;integer;This attribute shows how many keys are available to play notes.;;;;true
+Keybed;40;Velocity Sensitive;boolean;This attribute indicates if velocity sensitivity is supported.;;;;true
+Keybed;50;Aftertouch;string;This attribute specifies the kind of pressure sensitivity after the initial key press.;Type of aftertouch. ;;;true
+MIDI;10;MIDI Form factor;string;This attribute details the physical MIDI port type.;;;;false
+MIDI;10;Split zone count;integer;The amount of zones that can be assigned to different MIDI channels;;;;true
+MIDI;15;Layer function;boolean;Possibility to layer multiple MIDI channels to the same keys;;;;true
+MIDI;16;Chord mode;boolean;Whether it's possible to limit to specific specific chords on inputs;;;;true
+MIDI;16;Scale mode;boolean;Whether it's possible to limit to specific specific scales on inputs;;;;true
+MIDI;20;MIDI In;boolean;This attribute indicates if external MIDI signals can be received.;Is there a dedicated MIDI In port? ;;;true
+MIDI;30;MIDI Out;boolean;This attribute shows if the gear can send MIDI data to other gear.;Is there a dedicated MIDI OUT port?;;;true
+MIDI;40;MIDI Thru;boolean;This attribute indicates if the gear can pass MIDI data along unchanged.;Is there a dedicated MIDI THRU port? ;;;true
+MIDI;50;MIDI over USB;boolean;This attribute clarifies if MIDI communication is possible via USB.;Does the gear send/receive MIDI over USB? ;;;true
+MIDI;60;MIDI CC Control Count;integer;This attribute specifies the count of adjustable MIDI Control Change values. This value is based on the website https://midi.guide;How many MIDI CC parameters can be controlled?;;;false
+MIDI;70;MIDI Channels;integer;This attribute shows how many MIDI channels the gear can utilize.;;;;false
+MIDI;80;MIDI Polyphonic Aftertouch;boolean;Does it support polyphonic aftertouch via MIDI?;;;;true
+Sampling;10;Onboard Sampling;boolean;This attribute shows if the gear can record and store sounds.;Can this gear sample audio internally? ;;;false
+Sampling;20;Sample Slicing Mode;string;This attribute defines how recorded audio is divided into segments.;;;;false
+Sequencer;10;Sequencer Steps;integer;This attribute indicates the length of the sequencer pattern.;;;;true
+Sequencer;20;Arpeggiator;boolean;This attribute shows if automatic note patterns can be generated.;Does the gear have an arpeggiator? ;;;true
+Synthesis;100;LFO Count;integer;This attribute shows how many LFOs are available for modulation.;;;;true
+Synthesis;10;Synthesis Method;string;This attribute describes the fundamental approach to sound creation.;;;;true
+Synthesis;110;Modulation Matrix;boolean;This attribute indicates if flexible routing of modulation sources and destinations is possible.;;;;true
+Synthesis;120;Unison Mode;boolean;This attribute shows if multiple voices can be layered on a single note.;;;;true
+Synthesis;130;Semi Modular;boolean;This attribute indicates if the gear can be patched with external modules using CV/Gate.;;;;false
+Synthesis;20;Synthesis Type;multivalue;This attribute lists the synthesis techniques the gear supports.;;;;true
+Synthesis;30;Polyphony;integer;This attribute shows how many voices can sound at once.;;;;true
+Synthesis;40;Multi-timbral;boolean;This attribute indicates if the gear can produce layered or distinct sounds at once.;;;;false
+Synthesis;50;Oscillator Amount;integer;This attribute shows how many oscillators can be used to shape the sound.;;;;true
+Synthesis;60;VCO Amount;integer;A Voltage-Controlled Oscillator (VCO) is a synthesizer component that generates waveforms. ;This attribute indicates how many VCOs (Voltage-Controlled Oscillator) are available.;;;true
+Synthesis;70;Waveform Types;multivalue;This attribute lists the wave shapes the oscillators can produce.;;;;true
+Synthesis;80;Filter Type;multivalue;This attribute shows what types of filters are available for shaping the sound.;;;;true
+Synthesis;90;Envelope Generators;integer;This attribute indicates how many ADSR or similar envelopes can be used.;;;;true

@@ -1,0 +1,75 @@
+attribute;value
+Type of keybed;Semi-weighted
+Type of keybed;Weighted
+Type of keybed;Hammer action
+Type of keybed;Capacitive
+Type of keybed;Buttons
+Type of keybed;Pads
+Effects;Reverb
+Effects;Delay
+Effects;Chorus
+Effects;Compressor
+Effects;Overdrive
+Effects;Distortion
+Effects;Flanger
+Effects;Phaser
+Effects;Bit Crusher
+Effects;EQ
+Synthesis Type;Subtractive
+Synthesis Type;FM
+Synthesis Type;Wavetable
+Synthesis Type;Additive
+Synthesis Type;Sample-based
+Display Type;LCD
+Display Type;OLED
+Display Type;No display
+Display Type;LED segment
+Power Supply Type;External Adapter
+Power Supply Type;Internal PSU
+Power Supply Type;USB Only
+Filter Type;Low-pass (Cutoff)
+Filter Type;High-pass
+Filter Type;Band-pass
+Filter Type;Notch
+Sample Slicing Mode;Manual
+Sample Slicing Mode;Automatic
+Sample Slicing Mode;No slicing possible
+Storage Type;SD Card
+Storage Type;Internal Flash
+Storage Type;HDD
+Storage Type;USB Stick
+Waveform Types;Sine
+Waveform Types;Saw
+Waveform Types;Square
+Waveform Types;Triangle
+Waveform Types;Noise
+Waveform Types;Pulse
+Filter Type;Resonance
+MIDI Form factor;DIN
+MIDI Form factor;TRS Type A
+MIDI Form factor;TRS Type B
+Synthesis Method;Analog
+Synthesis Method;Digital
+Synthesis Method;Hybrid
+Aftertouch;None
+Aftertouch;Monophonic
+Aftertouch;Polyphonic
+Digital Audio Output;SPDIF
+Digital Audio Output;USB
+Digital Audio Output;Firewire
+Performance Controls;Pitch Bend
+Performance Controls;Modulate
+Key size;Full-size
+Key size;Mini
+Key size;Micro
+Native DAW Integration;Ableton Live
+Native DAW Integration;Bitwig
+Native DAW Integration;Cubase
+Native DAW Integration;FL Studio
+Native DAW Integration;GarageBand
+Native DAW Integration;Logic Pro
+Native DAW Integration;Reason
+Native DAW Integration;Reaper
+Joystick Type;No Joystick
+Joystick Type;4-Way
+Joystick Type;8-Way

@@ -1,0 +1,143 @@
+attribute;type
+Aftertouch;MIDI Controller
+Aftertouch;Synthesizer
+Arpeggiator;Sequencer
+Audio In;Sampler
+Audio In;Synthesizer
+Audio Out;Sampler
+Audio Out;Synthesizer
+Battery powered;MIDI Controller
+Battery powered;Sampler
+Battery powered;Sequencer
+Battery powered;Synthesizer
+Built-in speaker;Sampler
+Built-in speaker;Synthesizer
+Button Count;MIDI Controller
+CV/Gate;MIDI Controller
+CV/Gate;Sampler
+CV/Gate;Synthesizer
+Chord mode;MIDI Controller
+Depth;MIDI Controller
+Depth;Sampler
+Depth;Synthesizer
+Digital Audio Output;Sampler
+Digital Audio Output;Synthesizer
+Display Type;MIDI Controller
+Display Type;Sampler
+Display Type;Synthesizer
+Effects;Sampler
+Effects;Synthesizer
+Encoder Count;MIDI Controller
+Envelope Generators;Sampler
+Envelope Generators;Synthesizer
+Expandable Memory;Sampler
+Expandable Memory;Synthesizer
+Expression pedal;MIDI Controller
+Fader Count;MIDI Controller
+Filter Type;Sampler
+Filter Type;Synthesizer
+Headphone Output;Sampler
+Headphone Output;Synthesizer
+Height;MIDI Controller
+Height;Sampler
+Height;Synthesizer
+Internal Memory;Sampler
+Internal Memory;Synthesizer
+Joystick Type;MIDI Controller
+Key size;MIDI Controller
+Key size;Synthesizer
+Keybed;MIDI Controller
+Keybed;Sampler
+Keybed;Synthesizer
+Knob Count;MIDI Controller
+LFO Count;Sampler
+LFO Count;Synthesizer
+Layer function;MIDI Controller
+Line Input;Sampler
+Line Input;Synthesizer
+MIDI CC Control Count;MIDI Controller
+MIDI CC Control Count;Sampler
+MIDI CC Control Count;Synthesizer
+MIDI Channels;MIDI Controller
+MIDI Channels;Sampler
+MIDI Channels;Synthesizer
+MIDI Form factor;MIDI Controller
+MIDI Form factor;Sampler
+MIDI Form factor;Sequencer
+MIDI Form factor;Synthesizer
+MIDI In;MIDI Controller
+MIDI In;Sampler
+MIDI In;Sequencer
+MIDI In;Synthesizer
+MIDI Out;MIDI Controller
+MIDI Out;Sampler
+MIDI Out;Synthesizer
+MIDI Polyphonic Aftertouch;Sampler
+MIDI Polyphonic Aftertouch;Synthesizer
+MIDI Thru;MIDI Controller
+MIDI Thru;Sampler
+MIDI Thru;Synthesizer
+MIDI over USB;MIDI Controller
+MIDI over USB;Sampler
+MIDI over USB;Synthesizer
+Microphone Input;Sampler
+Microphone Input;Synthesizer
+Modulation Matrix;Synthesizer
+Multi-timbral;Sampler
+Multi-timbral;Synthesizer
+Native DAW Integration;MIDI Controller
+Number of Keys;MIDI Controller
+Number of Keys;Sampler
+Number of Keys;Synthesizer
+Onboard Sampling;Sampler
+Onboard Sampling;Synthesizer
+Oscillator Amount;Synthesizer
+Pad Count;MIDI Controller
+Performance Controls;MIDI Controller
+Performance Controls;Synthesizer
+Polyphony;Sampler
+Polyphony;Synthesizer
+Power Supply Type;MIDI Controller
+Power Supply Type;Sampler
+Power Supply Type;Synthesizer
+Preset slots;Sampler
+Preset slots;Synthesizer
+Release date;MIDI Controller
+Release date;Sampler
+Release date;Sequencer
+Release date;Synthesizer
+Sample Slicing Mode;Sampler
+Sample Slicing Mode;Synthesizer
+Scale mode;MIDI Controller
+Semi Modular;Synthesizer
+Sequencer Steps;Sequencer
+Split zone count;MIDI Controller
+Storage Type;Sampler
+Storage Type;Synthesizer
+Sustain pedal;MIDI Controller
+Synthesis Method;Synthesizer
+Synthesis Type;Sampler
+Synthesis Type;Synthesizer
+Touch Screen;MIDI Controller
+Touch Screen;Sampler
+Touch Screen;Synthesizer
+Transport Controls;MIDI Controller
+Type of keybed;MIDI Controller
+Type of keybed;Sampler
+Type of keybed;Synthesizer
+USB Powered;MIDI Controller
+USB Powered;Sampler
+USB Powered;Synthesizer
+Unison Mode;Synthesizer
+VCO Amount;Synthesizer
+Velocity Sensitive;MIDI Controller
+Velocity Sensitive;Sampler
+Velocity Sensitive;Synthesizer
+Waveform Types;Sampler
+Waveform Types;Synthesizer
+Weight;MIDI Controller
+Weight;Sampler
+Weight;Synthesizer
+Width;MIDI Controller
+Width;Sampler
+Width;Synthesizer
